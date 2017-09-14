@@ -166,6 +166,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
